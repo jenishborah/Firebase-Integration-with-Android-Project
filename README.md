@@ -24,7 +24,7 @@ classpath 'com.google.gms:google-services:4.3.14'
 apply plugin:'com.google.gms.google-services'
 
 - Add the necessary Firebase dependencies. For example, to use Firebase Authentication, Firestore, and Analytics, add:
-  
+
 dependencies {
 
     implementation 'com.google.firebase:firebase-auth:22.0.0'
