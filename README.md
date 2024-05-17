@@ -36,6 +36,8 @@ dependencies {
 # Resources_Link
 
   - For Better understanding of different steps follow [Firebase Official Documentation](https://firebase.google.com/docs/auth/android/start?hl=en&authuser=0)
+
+  - [Youtube Video](https://www.youtube.com/watch?v=Vl7VFoNWh6Y&ab_channel=CoffeeProgrammer)
   
 
 # Usage
